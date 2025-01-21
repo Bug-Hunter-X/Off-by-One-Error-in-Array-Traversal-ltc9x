@@ -1,0 +1,2 @@
+# Off-by-One Error in Java Array
+This repository demonstrates a common off-by-one error in Java when iterating through an array. The `BuggyArray.java` file contains the erroneous code, while `FixedArray.java` provides the corrected version.  The error arises from an incorrect loop condition, leading to an `ArrayIndexOutOfBoundsException`. The solution highlights the importance of carefully checking loop boundaries when working with arrays.
